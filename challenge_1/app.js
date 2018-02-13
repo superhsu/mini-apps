@@ -31,6 +31,9 @@ board.push(secondRow);
 board.push(thirdRow); 
 console.log(board); 
 
+var reset = function() {
+    //just go threw all the arrays and change the values to nums again
+}
 
 //helper functions 
 var playerxTurn = function (rowIndex, colIndex) {
