@@ -1,0 +1,20 @@
+.title {
+    color: red;
+}
+
+.design {
+    height: 700px;
+    width: 700px; 
+    background-color: black; 
+    display: flex; 
+    flex-wrap: wrap;
+}
+
+.squareDesign {
+    height: 85px; 
+    width: 85px; 
+    border-radius: 100px; 
+    background-color: purple;
+    margin: 3px; 
+
+}
